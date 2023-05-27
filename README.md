@@ -121,10 +121,10 @@
   <div key="2">
     <img src=https://github-readme-stats.vercel.app/api?username=Yoonjyjy&show_icons=true&theme=radical width="350" height="150" alt="githubStats" />
   </div>
-  
+<!--   
   <div key="3">
     <img src=https://github-readme-stats.vercel.app/api/top-langs/?username=Yoonjyjy&theme=synthwave width="280" height=270 alt="MUL" />
-  </div>
+  </div> -->
   
   <div key="5">
     <h3 style ="font-size : 2em; font-weight:700;">💙Contact💙</h3>
